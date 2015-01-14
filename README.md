@@ -10,3 +10,11 @@ $ path/to/configure
 $ make
 $ make check
 ```
+
+## Dependencies
+
+  * dh-autoreconf
+  * libapr1-dev
+  * libsvn-dev
+  * libcurl-dev
+
