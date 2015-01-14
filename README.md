@@ -11,7 +11,7 @@ $ make
 $ make check
 ```
 
-## Dependencies
+## Build dependencies
 
   * dh-autoreconf
   * libapr1-dev
